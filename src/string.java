@@ -12,8 +12,11 @@ public class string {
         int[] a = {3, 2, 12, 489, 22, 42};
         System.out.println(Arrays.toString(a));
 
+        System.out.println("dasdas");
+        System.out.println("dasdas");
+        System.out.println("dasdas");
+        System.out.println();
 
-        
         
         //Arrays
     }
